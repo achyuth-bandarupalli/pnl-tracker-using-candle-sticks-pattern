@@ -1,3 +1,21 @@
-you need to run it in vs code and need to go live otherwise javascript doesnt run in the backend by simply pressing the html file  
+####
+P&L Tracker Web App  A simple, browser-based P&L (Profit & Loss) tracker that visualizes your trading performance 
+using candlestick charts built with TradingView’s Lightweight Charts.
 
-thank you traders
+###########
+you need to run it in vs code and need to go live otherwise javascript doesnt run in the backend by simply opening the html file  
+
+########### 
+All data is stored locally in your browser using localStorage. This means:
+No server or database is required.
+Your P&L data persists between sessions (until manually cleared).
+All data stays private on your own device.
+⚠️ Note: Clearing browser cache or switching devices will erase your saved data.
+
+###########
+any further ideas to improvise this project reach me at achyuthbandarupalli@gmail.com
+for ideas like directly integrates with  and l or saved excels etc
+
+###########
+thank you coders and traders
+
